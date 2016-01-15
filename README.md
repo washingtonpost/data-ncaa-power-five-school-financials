@@ -6,3 +6,5 @@ To examine spending trends in college sports, The Washington Post requested fina
 # Credits:
 
 Research and Reporting: Will Hobson and Steven Rich
+
+If you have any questions, email Steven Rich at steven.rich@washpost.com.
