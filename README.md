@@ -9,6 +9,6 @@ If you obtain forms from other years or other schools, feel free to share and we
 
 # Credits:
 
-Research and Reporting: Will Hobson and Steven Rich
+Research and Reporting: [Will Hobson](http://www.washingtonpost.com/people/will-hobson) and [Steven Rich](https://www.washingtonpost.com/people/steven-rich)
 
 If you have any questions, email Steven Rich at steven.rich@washpost.com.
