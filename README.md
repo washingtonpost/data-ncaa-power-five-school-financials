@@ -5,7 +5,7 @@ To examine spending trends in college sports, The Washington Post requested fina
 
 Stories written from the data can be found at https://www.washingtonpost.com/pb/college-athletics-spending/. All 2004 figures in stories were adjusted for inflation, but this is the unadjusted, raw data. Reporters did not pull all revenue or expense fields, so fields don't add up to total revenue or toal expenses fields in the data.
 
-If you obtain forms from other years or other schools, feel free to share and we'll add. If you'd like us to add additional revenue or expense fields, let us know and we'll see what we can do.
+If you obtain forms from other years or other schools, feel free to share and we'll try to add as we can. If you'd like us to add additional revenue or expense fields, let us know and we'll see what we can do.
 
 # Credits:
 
