@@ -1,101 +1,101 @@
 school,conference,year,sports_offered,total_equivalencies_awarded,total_students_receiving_aid
-"University of Alabama, Tuscaloosa",sec,2004,20,,
-"University of Alabama, Tuscaloosa",sec,2014,21,305.79,462
-University of Arizona,p12,2004,20,235.4,321
-University of Arizona,p12,2014,20,275.01,350
-Arizona State University,p12,2004,22,273.11,396
-Arizona State University,p12,2014,22,263.56,359
-"University of Arkansas, Fayetteville",sec,2004,19,,
-"University of Arkansas, Fayetteville",sec,2014,19,238.33,353
-Auburn University,sec,2004,21,283.53,393
-Auburn University,sec,2014,21,272.88,435
-"University of California, Berkeley",p12,2004,29,252.21,513
-"University of California, Berkeley",p12,2014,29,300.83,550
-Clemson University,acc,2004,19,,
-Clemson University,acc,2014,19,242.88,378
-"University of Colorado, Boulder",p12,2004,17,192.4,246
-"University of Colorado, Boulder",p12,2014,17,199.97,273
-University of Florida,sec,2004,20,240.63,394
-University of Florida,sec,2014,21,268.43,406
-Florida State University,acc,2004,19,240.72,331
-Florida State University,acc,2014,20,236.53,370
-University of Georgia,sec,2004,21,236.4,413
-University of Georgia,sec,2014,21,252.83,481
-Georgia Institute of Technology,acc,2004,17,201.48,262
-Georgia Institute of Technology,acc,2014,17,201.25,311
-"University of Illinois, Champaign",b10,2004,21,258.43,354
-"University of Illinois, Champaign",b10,2014,21,264.86,414
-"Indiana University, Bloomington",b10,2004,24,286,424
-"Indiana University, Bloomington",b10,2014,24,294.26,432
-University of Iowa,b10,2004,24,280.16,466
-University of Iowa,b10,2014,24,296.02,466
-Iowa State University,b12,2004,18,227.82,315
-Iowa State University,b12,2014,18,231.98,342
-University of Kansas,b12,2004,20,239.33,380
-University of Kansas,b12,2014,18,236.58,345
-Kansas State University,b12,2004,16,212.63,381
-Kansas State University,b12,2014,13,224.94,385
-University of Kentucky,sec,2004,22,264.01,380
-University of Kentucky,sec,2014,22,262.17,407
-Louisiana State University,sec,2004,20,258.17,380
-Louisiana State University,sec,2014,21,299.15,494
-"University of Maryland, College Park",b10,2004,27,270.56,458
-"University of Maryland, College Park",b10,2014,20,268.97,392
-"University of Michigan, Ann Arbor",b10,2004,27,331.95,466
-"University of Michigan, Ann Arbor",b10,2014,25,353.43,544
-Michigan State University,b10,2004,25,336.97,492
-Michigan State University,b10,2014,25,338.95,510
-"University of Minnesota, Twin Cities",b10,2004,25,306.42,472
-"University of Minnesota, Twin Cities",b10,2014,25,330.87,525
-University of Mississippi,sec,2004,18,203.98,296
-University of Mississippi,sec,2014,18,221.74,321
-Mississippi State University,sec,2004,17,236.94,387
-Mississippi State University,sec,2014,18,204.78,305
-"University of Missouri, Columbia",sec,2004,20,260.25,395
-"University of Missouri, Columbia",sec,2014,20,258.13,384
-"University of Nebraska, Lincoln",b10,2004,23,254.49,429
-"University of Nebraska, Lincoln",b10,2014,24,277.81,459
-"University of North Carolina, Chapel Hill",acc,2004,28,292.09,443
-"University of North Carolina, Chapel Hill",acc,2014,28,328.9,484
-The Ohio State University,b10,2004,37,411.74,622
-The Ohio State University,b10,2014,36,423.15,720
-University of Oklahoma,b12,2004,20,264.25,382
-University of Oklahoma,b12,2014,21,266.74,403
-Oklahoma State University,b12,2004,21,231.75,355
-Oklahoma State University,b12,2014,18,242.56,370
-University of Oregon,p12,2004,17,200.6,283
-University of Oregon,p12,2014,20,240.05,384
-Purdue University,b10,2004,20,247.27,361
-Purdue University,b10,2014,20,259.38,375
-"Rutgers, The State University of New Jersey, New Brunswick",b10,2004,30,251.41,459
-"Rutgers, The State University of New Jersey, New Brunswick",b10,2014,24,278.02,446
-"University of South Carolina, Columbia",sec,2004,20,,
-"University of South Carolina, Columbia",sec,2014,21,261.27,402
-"University of Tennessee, Knoxville",sec,2004,20,237.16,375
-"University of Tennessee, Knoxville",sec,2014,20,251.98,372
-University of Texas at Austin,b12,2004,20,261.46,437
-University of Texas at Austin,b12,2014,20,261.73,413
-"Texas A&M University, College Station",sec,2004,21,,
-"Texas A&M University, College Station",sec,2014,20,236.79,437
-Texas Tech University,b12,2004,18,207.1,306
-Texas Tech University,b12,2014,17,220.02,561
-"University of California, Los Angeles",p12,2004,24,270.64,455
-"University of California, Los Angeles",p12,2014,25,281.86,459
-University of Utah,p12,2004,21,236.92,320
-University of Utah,p12,2014,18,251.32,348
-University of Virginia,acc,2004,25,281.76,432
-University of Virginia,acc,2014,25,315.11,487
-Virginia Polytechnic Institute and State University,acc,2004,21,223.48,353
-Virginia Polytechnic Institute and State University,acc,2014,22,265.67,381
-University of Washington,p12,2004,23,273.9,380
-University of Washington,p12,2014,22,267.87,385
-Washington State University,p12,2004,17,227.22,342
-Washington State University,p12,2014,17,229.82,334
-West Virginia University,b12,2004,16,214.85,296
-West Virginia University,b12,2014,18,239.74,371
-"University of Wisconsin, Madison",b10,2004,24,284.75,402
-"University of Wisconsin, Madison",b10,2014,24,330.71,474
-University of Louisville,acc,2014,23,295.85,463
-North Carolina State University,acc,2014,23,267.15,400
-Oregon State University,p12,2014,20,264.34,384
-Pennsylvania State University,b10,2014,31,348.56,941
+"University of Alabama, Tuscaloosa",Southeastern,2004,20,,
+"University of Alabama, Tuscaloosa",Southeastern,2014,21,305.79,462
+University of Arizona,Pac-10,2004,20,235.4,321
+University of Arizona,Pac-12,2014,20,275.01,350
+Arizona State University,Pac-10,2004,22,273.11,396
+Arizona State University,Pac-12,2014,22,263.56,359
+"University of Arkansas, Fayetteville",Southeastern,2004,19,,
+"University of Arkansas, Fayetteville",Southeastern,2014,19,238.33,353
+Auburn University,Southeastern,2004,21,283.53,393
+Auburn University,Southeastern,2014,21,272.88,435
+"University of California, Berkeley",Pac-10,2004,29,252.21,513
+"University of California, Berkeley",Pac-12,2014,29,300.83,550
+Clemson University,Atlantic Coast,2004,19,,
+Clemson University,Atlantic Coast,2014,19,242.88,378
+"University of Colorado, Boulder",Big 12,2004,17,192.4,246
+"University of Colorado, Boulder",Pac-12,2014,17,199.97,273
+University of Florida,Southeastern,2004,20,240.63,394
+University of Florida,Southeastern,2014,21,268.43,406
+Florida State University,Atlantic Coast,2004,19,240.72,331
+Florida State University,Atlantic Coast,2014,20,236.53,370
+University of Georgia,Southeastern,2004,21,236.4,413
+University of Georgia,Southeastern,2014,21,252.83,481
+Georgia Institute of Technology,Atlantic Coast,2004,17,201.48,262
+Georgia Institute of Technology,Atlantic Coast,2014,17,201.25,311
+"University of Illinois, Champaign",Big Ten,2004,21,258.43,354
+"University of Illinois, Champaign",Big Ten,2014,21,264.86,414
+"Indiana University, Bloomington",Big Ten,2004,24,286,424
+"Indiana University, Bloomington",Big Ten,2014,24,294.26,432
+University of Iowa,Big Ten,2004,24,280.16,466
+University of Iowa,Big Ten,2014,24,296.02,466
+Iowa State University,Big 12,2004,18,227.82,315
+Iowa State University,Big 12,2014,18,231.98,342
+University of Kansas,Big 12,2004,20,239.33,380
+University of Kansas,Big 12,2014,18,236.58,345
+Kansas State University,Big 12,2004,16,212.63,381
+Kansas State University,Big 12,2014,13,224.94,385
+University of Kentucky,Southeastern,2004,22,264.01,380
+University of Kentucky,Southeastern,2014,22,262.17,407
+Louisiana State University,Southeastern,2004,20,258.17,380
+Louisiana State University,Southeastern,2014,21,299.15,494
+"University of Maryland, College Park",Atlantic Coast,2004,27,270.56,458
+"University of Maryland, College Park",Big Ten,2014,20,268.97,392
+"University of Michigan, Ann Arbor",Big Ten,2004,27,331.95,466
+"University of Michigan, Ann Arbor",Big Ten,2014,25,353.43,544
+Michigan State University,Big Ten,2004,25,336.97,492
+Michigan State University,Big Ten,2014,25,338.95,510
+"University of Minnesota, Twin Cities",Big Ten,2004,25,306.42,472
+"University of Minnesota, Twin Cities",Big Ten,2014,25,330.87,525
+University of Mississippi,Southeastern,2004,18,203.98,296
+University of Mississippi,Southeastern,2014,18,221.74,321
+Mississippi State University,Southeastern,2004,17,236.94,387
+Mississippi State University,Southeastern,2014,18,204.78,305
+"University of Missouri, Columbia",Big 12,2004,20,260.25,395
+"University of Missouri, Columbia",Southeastern,2014,20,258.13,384
+"University of Nebraska, Lincoln",Big 12,2004,23,254.49,429
+"University of Nebraska, Lincoln",Big Ten,2014,24,277.81,459
+"University of North Carolina, Chapel Hill",Atlantic Coast,2004,28,292.09,443
+"University of North Carolina, Chapel Hill",Atlantic Coast,2014,28,328.9,484
+The Ohio State University,Big Ten,2004,37,411.74,622
+The Ohio State University,Big Ten,2014,36,423.15,720
+University of Oklahoma,Big 12,2004,20,264.25,382
+University of Oklahoma,Big 12,2014,21,266.74,403
+Oklahoma State University,Big 12,2004,21,231.75,355
+Oklahoma State University,Big 12,2014,18,242.56,370
+University of Oregon,Pac-10,2004,17,200.6,283
+University of Oregon,Pac-12,2014,20,240.05,384
+Purdue University,Big Ten,2004,20,247.27,361
+Purdue University,Big Ten,2014,20,259.38,375
+"Rutgers, The State University of New Jersey, New Brunswick",Big East,2004,30,251.41,459
+"Rutgers, The State University of New Jersey, New Brunswick",Big Ten,2014,24,278.02,446
+"University of South Carolina, Columbia",Southeastern,2004,20,,
+"University of South Carolina, Columbia",Southeastern,2014,21,261.27,402
+"University of Tennessee, Knoxville",Southeastern,2004,20,237.16,375
+"University of Tennessee, Knoxville",Southeastern,2014,20,251.98,372
+University of Texas at Austin,Big 12,2004,20,261.46,437
+University of Texas at Austin,Big 12,2014,20,261.73,413
+"Texas A&M University, College Station",Big 12,2004,21,,
+"Texas A&M University, College Station",Southeastern,2014,20,236.79,437
+Texas Tech University,Big 12,2004,18,207.1,306
+Texas Tech University,Big 12,2014,17,220.02,561
+"University of California, Los Angeles",Pac-10,2004,24,270.64,455
+"University of California, Los Angeles",Pac-12,2014,25,281.86,459
+University of Utah,Mountain West,2004,21,236.92,320
+University of Utah,Pac-12,2014,18,251.32,348
+University of Virginia,Atlantic Coast,2004,25,281.76,432
+University of Virginia,Atlantic Coast,2014,25,315.11,487
+Virginia Polytechnic Institute and State University,Atlantic Coast,2004,21,223.48,353
+Virginia Polytechnic Institute and State University,Atlantic Coast,2014,22,265.67,381
+University of Washington,Pac-10,2004,23,273.9,380
+University of Washington,Pac-12,2014,22,267.87,385
+Washington State University,Pac-10,2004,17,227.22,342
+Washington State University,Pac-12,2014,17,229.82,334
+West Virginia University,Big East,2004,16,214.85,296
+West Virginia University,Big 12,2014,18,239.74,371
+"University of Wisconsin, Madison",Big Ten,2004,24,284.75,402
+"University of Wisconsin, Madison",Big Ten,2014,24,330.71,474
+University of Louisville,Atlantic Coast,2014,23,295.85,463
+North Carolina State University,Atlantic Coast,2014,23,267.15,400
+Oregon State University,Pac-12,2014,20,264.34,384
+Pennsylvania State University,Big Ten,2014,31,348.56,941
